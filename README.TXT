@@ -4,12 +4,10 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Ticket to Ride
+PURPOSE OF PROJECT: Recreate Classic board game
+VERSION or DATE:Final Commented : 2019
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
 
 
 
