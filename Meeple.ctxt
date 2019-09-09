@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Meeple
+comment0.text=\r\n\ Covers\ all\ functionality\ of\ meeples\ on\ the\ board\r\n\r\n\ @author\ Noah,\ Bradley,\ Fez,\ Rajshree,\ Dan,\ David\r\n\ @version\ 4/29/18\r\n
+comment1.params=img
+comment1.target=Meeple(java.awt.Image)
+comment1.text=\r\n\ Constructs\ the\ meeple\ by\ setting\ its\ image\r\n\ @param\ img\ the\ image\ representing\ the\ meeple\r\n
+comment2.params=c
+comment2.target=Meeple(Colors)
+comment2.text=\r\n\ Constructs\ the\ meeple\ by\ setting\ its\ color\r\n\ @param\ c\ the\ color\ of\ the\ meeple\r\n
+comment3.params=
+comment3.target=Colors\ getColor()
+comment3.text=\r\n\ Returns\ the\ color\ of\ the\ meeple\r\n\ @return\ the\ meeple's\ color\r\n
+comment4.params=col
+comment4.target=void\ setColors(Colors)
+comment4.text=\r\n\ Sets\ the\ color\ of\ the\ meeple\r\n\ @param\ col\ the\ new\ color\r\n
+numComments=5

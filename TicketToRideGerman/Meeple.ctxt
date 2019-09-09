@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Meeple
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Meople\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Meeple()
+comment2.params=c
+comment2.target=Meeple(TAndMcolor)
+numComments=3

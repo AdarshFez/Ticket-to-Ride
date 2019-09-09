@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TrainDeck
+comment0.text=\r\n\ Estasblishes\ decks\ for\ destination\ cards\r\n\r\n\ @author\ Fez,\ Noah,\ Rajshree,\ Bradley,\ Dan,\ David\r\n\ @version\ 4/29/18\r\n
+comment1.params=
+comment1.target=TrainDeck()
+comment1.text=\r\n\ Constructs\ new\ deck\ with\ 12\ of\ each\ color,\ 14\ locomotives\r\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\r\n\ Shuffles\ the\ cards\ in\ the\ deck\r\n
+comment3.params=
+comment3.target=TrainCard\ getCard()
+comment3.text=\r\n\ Takes\ card\ from\ deck\ to\ put\ onto\ table\ or\ into\ player\ \r\n\ hand\r\n\ \r\n\ @return\ top\ card\ off\ deck\r\n
+comment4.params=t
+comment4.target=void\ add(TrainCard)
+comment4.text=\r\n\ Adds\ new\ card\ to\ deck\r\n\ @pram\ t\ the\ new\ card\ to\ put\ onto\ the\ deck\r\n
+numComments=5

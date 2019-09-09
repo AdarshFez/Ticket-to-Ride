@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PointsAround
+comment0.text=\r\n\ This\ creates\ each\ players\ circle\ on\ the\ border\ point\ counter\r\n\r\n\ @author\ Bradley,\ Rajshree,\ Noah,\ Fez,\ Dan,\ David\r\n\ @version\ 4/29/18\r\n
+comment1.params=x\ y
+comment1.target=PointsAround(int,\ int)
+comment1.text=\r\n\ Constructs\ the\ points\ with\ an\ established\ x\ and\ y\r\n\ coord\r\n\ \r\n\ @param\ x,y\ the\ coordinates\ of\ the\ object\r\n
+comment2.params=
+comment2.target=int\ getWidth()
+comment2.text=\r\n\ Returns\ width\ of\ the\ object\r\n\ \r\n\ @return\ the\ width\r\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\r\n\ Returns\ height\ of\ the\ object\r\n\ \r\n\ @return\ the\ height\r\n
+comment4.params=
+comment4.target=int\ getX()
+comment4.text=\r\n\ Returns\ X\ coord\ of\ the\ object\r\n\ \r\n\ @return\ the\ coord\r\n
+comment5.params=
+comment5.target=int\ getY()
+comment5.text=\r\n\ Returns\ Y\ coord\ of\ the\ object\r\n\ \r\n\ @return\ the\ coord\r\n
+comment6.params=xS
+comment6.target=void\ setX(int)
+comment6.text=\r\n\ Sets\ the\ objects\ X\ coord\r\n\ \r\n\ @param\ xS\ the\ new\ x\ coord\r\n
+comment7.params=yS
+comment7.target=void\ setY(int)
+comment7.text=\r\n\ Sets\ the\ objects\ Y\ coord\r\n\ \r\n\ @param\ yS\ the\ new\ y\ coord\r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DestHandPanel
+comment0.text=\r\n\ Creates\ panel\ for\ destination\ cards\r\n\r\n\ @author\ Fez,\ Rajshree,\ Dan,\ Noah,\ Bradley,\ Daivd\r\n\ @version\ 4/30/18\r\n
+comment1.params=currentPlayer
+comment1.target=void\ showDestHand(Player)
+comment1.text=\r\n\ Shows\ the\ hand\ of\ the\ current\ player\ on\ the\ board\r\n\ @param\ currentPlayer\ the\ current\ player\r\n
+numComments=2

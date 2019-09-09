@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DestCard
+comment0.text=\r\n\ Creats\ the\ functionality\ for\ destination\ tickets\r\n\r\n\ @author\ Dan\ van\ Dyk\r\n\ @version\ 4/29/18\r\n
+comment1.params=startCity\ endCity\ points\ imagePath\ distance
+comment1.target=DestCard(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Creates\ new\ card\r\n\ @param\ startCity,endCity\ the\ citys\ required\ to\r\n\ \ satisfy\ ticket\r\n\ \ @param\ points\ the\ points\ card\ is\ worth\r\n\ \ @param\ imagePath\ the\ location\ of\ cards\ image\ in\r\n\ \ \ images\ subfodler\r\n\ \ @param\ distance\ the\ number\ of\ length\ of\ the\ path\r\n
+comment2.params=
+comment2.target=java.lang.String\ getStartCity()
+comment2.text=\r\n\ Returns\ the\ city\ you\ start\ from\r\n\ @return\ startCity\r\n
+comment3.params=
+comment3.target=java.lang.String\ getEndCity()
+comment3.text=\r\n\ Returns\ the\ city\ you\ end\ at\r\n\ @return\ endCity\r\n
+comment4.params=
+comment4.target=int\ getPoints()
+comment4.text=\r\n\ Returns\ points\ card\ is\ worth\r\n\ @return\ points\r\n
+comment5.params=
+comment5.target=java.lang.String\ getImagePath()
+comment5.text=\r\n\ Returns\ pathname\ of\ image\r\n\ @return\ imagePath\r\n
+comment6.params=
+comment6.target=java.lang.String\ getDistance()
+comment6.text=\r\n\ Returns\ number\ of\ tiles\ for\ card\r\n\ @return\ distance\r\n
+numComments=7

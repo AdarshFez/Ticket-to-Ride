@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MusicLoopPlayer
+comment0.text=\r\n\ Repeated\ loops\ of\ songs\r\n\r\n\ @author\ Rajshree\ Marhatta\r\n\ @version\ Spring\ 2018\r\n
+comment1.params=
+comment1.target=MusicLoopPlayer()
+comment1.text=\r\n\ Constructor\ of\ looping\ songs.\ Sets\ the\ clip\ to\ the\ main\ \r\n\ background\ song.\r\n
+comment2.params=
+comment2.target=void\ music()
+comment2.text=\r\n\ Main\ part\ of\ the\ game\ song\r\n
+comment3.params=
+comment3.target=void\ intro()
+comment3.text=\r\n\ The\ intro\ song\ \r\n
+comment4.params=
+comment4.target=void\ stop()
+comment4.text=\r\n\ Stop\ the\ music\ playing\r\n
+numComments=5

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=Colors
+comment0.text=\r\n\ Enumerated\ Type\ representing\ the\ colors\ of\ the\ objects\ on\ the\r\n\ board.\ Differs\ from\ actual\ color\ class\ in\ Java\ API\r\n\r\n\ @author\ Noah,\ Fez,\ Rajshree,\ Bradley,\ David,\ Dan\r\n\ @version\ 4/29/18\r\n
+numComments=1

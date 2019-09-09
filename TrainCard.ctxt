@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TrainCard
+comment0.text=\r\n\ Controls\ functionality\ for\ train\ cards\r\n\r\n\ @author\ Noah,\ Bradley,\ Fez,\ Rajshree,\ Dan,\ David\r\n\ @version\ 4/29/18\r\n
+comment1.params=img\ c
+comment1.target=TrainCard(java.awt.Image,\ Colors)
+comment1.text=\r\n\ Creates\ new\ card\ with\ established\ color\ and\ img\r\n\ @param\ img\ the\ image\ the\ card\ uses\r\n\ @param\ c\ the\ color\ card\ uses\r\n
+comment2.params=
+comment2.target=Colors\ getColor()
+comment2.text=\r\n\ Returns\ the\ color\ of\ the\ card\r\n\ @return\ color\r\n
+comment3.params=img
+comment3.target=void\ setImage(java.awt.Image)
+comment3.text=\r\n\ Changes\ image\ to\ new\ image\r\n\ @param\ img\ the\ new\ image\r\n
+comment4.params=c
+comment4.target=void\ setColor(Colors)
+comment4.text=\r\n\ Changes\ color\ to\ new\ color\r\n\ @param\ c\ the\ new\ color\r\n
+comment5.params=
+comment5.target=java.awt.Image\ getImage()
+comment5.text=\r\n\ Returns\ the\ image\ of\ the\ card\r\n\ @return\ cards\ image\r\n
+numComments=6
